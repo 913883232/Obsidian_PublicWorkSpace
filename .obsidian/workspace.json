@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "个人文档/测试文档.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试文档"
+              "title": "README"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人文档/测试文档.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "测试文档 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "个人文档/测试文档.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "测试文档 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "个人文档/测试文档.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测试文档 的大纲"
+              "title": "README 的大纲"
             }
           }
         ]
@@ -188,8 +188,8 @@
   "active": "0ed51e580ea6a743",
   "lastOpenFiles": [
     "index.html.md",
-    "个人文档/测试文档.md",
     "README.md",
+    "个人文档/测试文档.md",
     "欢迎.md",
     "个人文档"
   ]
