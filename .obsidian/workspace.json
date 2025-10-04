@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "所有项目链接/项目链接.md",
+                "file": "github/github提交.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "项目链接"
+              "title": "github提交"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "所有项目链接/项目链接.md",
+                "file": "github/github提交.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "项目链接 的反向链接列表"
+              "title": "github提交 的反向链接列表"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "所有项目链接/项目链接.md",
+                "file": "github/github提交.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "项目链接 的出链列表"
+              "title": "github提交 的出链列表"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "所有项目链接/项目链接.md",
+                "file": "github/github提交.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目链接 的大纲"
+              "title": "github提交 的大纲"
             }
           }
         ]
@@ -201,8 +201,10 @@
   },
   "active": "1571578c48b7db28",
   "lastOpenFiles": [
-    "代码/cmd/windows自带MD5工具.md",
     "所有项目链接/项目链接.md",
+    "github/github提交.md",
+    "github",
+    "代码/cmd/windows自带MD5工具.md",
     "所有项目链接",
     "代码/Python/Miniforge使用步骤.md",
     "服务器相关/linux命令.md",
