@@ -1,6 +1,5 @@
 ---
-title: 个人文档
+title: MyDocument
 slug: index
 noindex: "true"
 ---
-
